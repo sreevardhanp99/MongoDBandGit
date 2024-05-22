@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Laptop",
+    "price": 57999,
+    "category": "Electronics",
+    "brand": "Dell",
+    "rating": 4,
+    "discount_in_percentage": 5
+  },
+  {
+    "name": "Smartphone",
+    "price": 7999,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 2,
+    "discount_in_percentage": 15
+  },
+  {
+    "name": "Analog Watch",
+    "price": 1999,
+    "category": "Watches",
+    "brand": "Casio",
+    "rating": 3,
+    "discount_in_percentage": 8
+  },
+  {
+    "name": "Digital Watch",
+    "price": 1499,
+    "category": "Watches",
+    "brand": "Timex",
+    "rating": 2,
+    "discount_in_percentage": 12
+  },
+  {
+    "name": "T-Shirt",
+    "price": 599,
+    "category": "Clothing",
+    "brand": "Puma",
+    "rating": 5,
+    "discount_in_percentage": 10
+  },
+  {
+    "name": "Jeans",
+    "price": 1499,
+    "category": "Clothing",
+    "brand": "Denim",
+    "rating": 1,
+    "discount_in_percentage": 20
+  },
+  {
+    "name": "Shirt",
+    "price": 2399,
+    "category": "Clothing",
+    "brand": "Killer",
+    "rating": 5,
+    "discount_in_percentage": 14
+  },
+  {
+    "name": "Bat",
+    "price": 2999,
+    "category": "Sport",
+    "brand": "Yonex",
+    "rating": 3
+  },
+  {
+    "name": "Headphones",
+    "price": 1499,
+    "category": "Electronics",
+    "brand": "Sony",
+    "rating": 4,
+    "discount_in_percentage": 10
+  },
+  {
+    "name": "Tablet",
+    "price": 8999,
+    "category": "Electronics",
+    "brand": "Samsung",
+    "rating": 3,
+    "discount_in_percentage": 8
+  },
+  {
+    "name": "Chronograph Watch",
+    "price": 3499,
+    "category": "Watches",
+    "brand": "Fossil",
+    "rating": 4,
+    "discount_in_percentage": 12
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 999,
+    "category": "Watches",
+    "brand": "Fitbit",
+    "rating": 4,
+    "discount_in_percentage": 15
+  },
+  {
+    "name": "Sweatshirt",
+    "price": 799,
+    "category": "Clothing",
+    "brand": "Nike",
+    "rating": 4,
+    "discount_in_percentage": 10
+  },
+  {
+    "name": "Shorts",
+    "price": 499,
+    "category": "Clothing",
+    "brand": "Adidas",
+    "rating": 3,
+    "discount_in_percentage": 15
+  },
+  {
+    "name": "Jacket",
+    "price": 899,
+    "category": "Clothing",
+    "brand": "Zara",
+    "rating": 4,
+    "discount_in_percentage": 12
+  },
+  {
+    "name": "Cricket Bat",
+    "price": 1999,
+    "category": "Sport",
+    "brand": "SG",
+    "rating": 5
+  },
+  {
+    "name": "Television",
+    "price": 25999,
+    "category": "Electronics",
+    "brand": "LG",
+    "rating": 4,
+    "discount_in_percentage": 10
+  },
+  {
+    "name": "Earrings",
+    "price": 599,
+    "category": "Jewelry",
+    "brand": "Swarovski",
+    "rating": 5,
+    "discount_in_percentage": 8
+  },
+  {
+    "name": "Backpack",
+    "price": 899,
+    "category": "Accessories",
+    "brand": "North Face",
+    "rating": 4,
+    "discount_in_percentage": 10
+  },
+  {
+    "name": "Football",
+    "price": 999,
+    "category": "Sport",
+    "brand": "Nike",
+    "rating": 4
+  }
+]

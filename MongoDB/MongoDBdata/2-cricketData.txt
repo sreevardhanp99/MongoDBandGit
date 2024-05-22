@@ -1,0 +1,242 @@
+[
+  {
+    name: "Rahul Sharma",
+    score: 78,
+    matchType: "T20",
+    year: 2021,
+    noOfFours: 8,
+    noOfSixes: 3
+  },
+  {
+    name: "Rahul Sharma",
+    score: 102,
+    matchType: "ODI",
+    year: 2021,
+    noOfFours: 12,
+    noOfSixes: 5
+  },
+  {
+    name: "Rahul Sharma",
+    score: 45,
+    matchType: "Test",
+    year: 2021,
+    noOfFours: 5,
+    noOfSixes: 2
+  },
+  {
+    name: "Rahul Sharma",
+    score: 68,
+    matchType: "T20",
+    year: 2020,
+    noOfFours: 7,
+    noOfSixes: 4
+  },
+  {
+    name: "Rahul Sharma",
+    score: 118,
+    matchType: "ODI",
+    year: 2020,
+    noOfFours: 11,
+    noOfSixes: 6
+  },
+  {
+    name: "Rahul Sharma",
+    score: 57,
+    matchType: "Test",
+    year: 2020,
+    noOfFours: 6,
+    noOfSixes: 3
+  },
+  {
+    name: "Sandeep Patel",
+    score: 54,
+    matchType: "T20",
+    year: 2021,
+    noOfFours: 6,
+    noOfSixes: 2
+  },
+  {
+    name: "Sandeep Patel",
+    score: 85,
+    matchType: "ODI",
+    year: 2021,
+    noOfFours: 9,
+    noOfSixes: 3
+  },
+  {
+    name: "Sandeep Patel",
+    score: 32,
+    matchType: "Test",
+    year: 2021,
+    noOfFours: 4,
+    noOfSixes: 1
+  },
+  {
+    name: "Sandeep Patel",
+    score: 72,
+    matchType: "T20",
+    year: 2020,
+    noOfFours: 8,
+    noOfSixes: 3
+  },
+  {
+    name: "Sandeep Patel",
+    score: 105,
+    matchType: "ODI",
+    year: 2020,
+    noOfFours: 10,
+    noOfSixes: 4
+  },
+  {
+    name: "Sandeep Patel",
+    score: 41,
+    matchType: "Test",
+    year: 2020,
+    noOfFours: 5,
+    noOfSixes: 2
+  },
+  {
+    name: "Vijay Singh",
+    score: 122,
+    matchType: "T20",
+    year: 2021,
+    noOfFours: 14,
+    noOfSixes: 6
+  },
+  {
+    name: "Vijay Singh",
+    score: 98,
+    matchType: "ODI",
+    year: 2021,
+    noOfFours: 11,
+    noOfSixes: 4
+  },
+  {
+    name: "Vijay Singh",
+    score: 78,
+    matchType: "Test",
+    year: 2021,
+    noOfFours: 8,
+    noOfSixes: 3
+  },
+  {
+    name: "Vijay Singh",
+    score: 91,
+    matchType: "T20",
+    year: 2020,
+    noOfFours: 10,
+    noOfSixes: 5
+  },
+  {
+    name: "Vijay Singh",
+    score: 115,
+    matchType: "ODI",
+    year: 2020,
+    noOfFours: 13,
+    noOfSixes: 7
+  },
+  {
+    name: "Vijay Singh",
+    score: 64,
+    matchType: "Test",
+    year: 2020,
+    noOfFours: 7,
+    noOfSixes: 2
+  },
+  {
+    name: "Sanjay Kumar",
+    score: 95,
+    matchType: "T20",
+    year: 2021,
+    noOfFours: 11,
+    noOfSixes: 4
+  },
+  {
+    name: "Sanjay Kumar",
+    score: 112,
+    matchType: "ODI",
+    year: 2021,
+    noOfFours: 12,
+    noOfSixes: 6
+  },
+  {
+    name: "Sanjay Kumar",
+    score: 67,
+    matchType: "Test",
+    year: 2021,
+    noOfFours: 7,
+    noOfSixes: 3
+  },
+  {
+    name: "Sanjay Kumar",
+    score: 89,
+    matchType: "T20",
+    year: 2020,
+    noOfFours: 10,
+    noOfSixes: 5
+  },
+  {
+    name: "Sanjay Kumar",
+    score: 128,
+    matchType: "ODI",
+    year: 2020,
+    noOfFours: 15,
+    noOfSixes: 8
+  },
+  {
+    name: "Sanjay Kumar",
+    score: 53,
+    matchType: "Test",
+    year: 2020,
+    noOfFours: 6,
+    noOfSixes: 2
+  },
+  {
+    name: "Amit Gupta",
+    score: 77,
+    matchType: "T20",
+    year: 2021,
+    noOfFours: 9,
+    noOfSixes: 3
+  },
+  {
+    name: "Amit Gupta",
+    score: 105,
+    matchType: "ODI",
+    year: 2021,
+    noOfFours: 12,
+    noOfSixes: 5
+  },
+  {
+    name: "Amit Gupta",
+    score: 44,
+    matchType: "Test",
+    year: 2021,
+    noOfFours: 5,
+    noOfSixes: 2
+  },
+  {
+    name: "Amit Gupta",
+    score: 82,
+    matchType: "T20",
+    year: 2020,
+    noOfFours: 10,
+    noOfSixes: 4
+  },
+  {
+    name: "Amit Gupta",
+    score: 125,
+    matchType: "ODI",
+    year: 2020,
+    noOfFours: 14,
+    noOfSixes: 7
+  },
+  {
+    name: "Amit Gupta",
+    score: 58,
+    matchType: "Test",
+    year: 2020,
+    noOfFours: 7,
+    noOfSixes: 3
+  }
+]
