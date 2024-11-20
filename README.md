@@ -1,1 +1,1 @@
-* This repository contains basics of **MongoDB** and **Git**
+* This repository contains basics of **Mongo DB** and **Git**
