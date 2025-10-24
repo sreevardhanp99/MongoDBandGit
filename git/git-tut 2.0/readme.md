@@ -26,3 +26,9 @@ __bold__
 >> This project under development.
 
 - [x] Check box
+
+> Table
+
+| col1 | col2 |
+| --- | --- |
+| 1 | A |
