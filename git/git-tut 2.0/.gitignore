@@ -1,0 +1,4 @@
+.env
+*.txt
+!eg.txt
+temp1/
