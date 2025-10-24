@@ -25,6 +25,4 @@ __bold__
 
 >> This project under development.
 
-1. [x] check box 
-
 - [x] Check box
